@@ -25,7 +25,7 @@ export default function NavBar() {
     >
         
       <NavbarBrand>
-        <Image src="/images/logo.png" width={50} height={50} />
+        <Image src="/images/logo.png" width={50} height={50} alt="Logo"/>
         <p className="font-bold text-inherit">Fastconvert</p>
       </NavbarBrand>
       <NavbarContent className="hidden sm:flex gap-4" justify="center">
