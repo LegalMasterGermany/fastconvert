@@ -41,7 +41,7 @@ export default function NavBar() {
         </NavbarItem>
         <NavbarItem>
           <Link color="foreground" href="#">
-            About Us
+            API
           </Link>
         </NavbarItem>
       </NavbarContent>
