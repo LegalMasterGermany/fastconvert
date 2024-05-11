@@ -19,6 +19,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+      <link rel="icon" href="/images/logo.ico" sizes="any" />
+
+      </head>
       <body className={inter.className}>
       <NextUIProvider>
       <NavBar/>
