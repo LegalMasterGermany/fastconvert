@@ -1,4 +1,4 @@
-import { describe } from "node:test";
+'use client'
 import UploadFile from "./components/UploadFile";
 import Image from "next/image";
 import APIBanner from "./components/APIBanner";
